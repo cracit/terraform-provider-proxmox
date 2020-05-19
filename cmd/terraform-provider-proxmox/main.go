@@ -13,5 +13,3 @@ func main() {
 		},
 	})
 }
-
-https://github.com/hashicorp/terraform/tree/master/terraform
