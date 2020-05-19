@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/cracit/terraform-provider-proxmox/tree/master/cmd/terraform-provider-proxmox"
+	"github.com/Telmate/terraform-provider-proxmox/cmd/terraform-provider-proxmox"
 	"github.com/hashicorp/terraform/tree/master/plugin"
 	"github.com/hashicorp/terraform/tree/master/terraform"
 )
